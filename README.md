@@ -1,19 +1,19 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Andres Velata</h1>
 <h3 align="center">• IT engineer • Full stack developer • UI lover</h3>
 
 - 🔭 I’m currently working on [My Porfolio](https://github.com/AndrewVel/PortafolioAndrew.git)
 
-- 🌱 I’m currently learning **Flutter Advanced**
-
 - 👯 I’m collaborate on [Fit U](https://github.com/proyecto-final-2023/PF-G6.git)
 
 - 👨‍💻 All of my projects are available at [www.com](www.com)
 
+- 🌱 I’m currently learning **Flutter Advanced**
+
 - 💬 Ask me about **React, Redux, Node,js and Postgresql**
 
 - 📫 How to reach me **andres.velata@hotmail.com**
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
