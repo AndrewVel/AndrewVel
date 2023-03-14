@@ -13,7 +13,18 @@
 
 - 📫 How to reach me **andres.velata@hotmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Who I am?</h3>
+<p align="left">
+I’m TI engineer passionate about web development. I love creating technological solutions and improving processes through programming. I have experience in developing web and mobile applications, as well as in managing technology projects.
+</p>
+<h3 align="left">What I do?</h3>
+<p align="left">
+Currently, I am training to improve my programming skills. I enjoy learning new technologies and applying them in my projects. Additionally, I like to share my knowledge and help others improve their programming skills.
+</p>
+<h3 align="left">Where am I headed?</h3>
+<p align="left">
+My goal is to become a Full Stack developer, with knowledge in technologies such as React, Angular, Node.js, MongoDB, and MySQL. I am passionate about creating scalable and high-quality web applications, and I am confident that with dedication and effort, I will be able to achieve my goal and continue growing in this field.
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
